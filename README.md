@@ -40,7 +40,7 @@ A Streamlit-based intelligent chatbot that answers questions about any YouTube v
 
 ## 👨‍💻 Author
 
-### Aditya Aher
+### Aryan Bansode
 ### Aspiring AI Engineer-
 
 ---
